@@ -1,0 +1,55 @@
+REQUISITOS FUNCIONAIS:
+- barra de pesquisa
+- lupa na barra de pesquisa
+- botão do microfone
+- botão de notificações
+- botão de adicionar vídeos no canto superior direito
+- botão do canal (seu canal no canto superior direito)
+- setinha no canto superior direito embaixo do canal
+- botões de assuntos relevantes abaixo da barra de pesquisa
+- botão com ícone do Youtube que leva a "home" da pagina
+- três barras no canto superior esquerdo
+- botão de inicio no lado esquerdo
+- botão shorts no lado esquerdo
+- botão de inscrições no lado esquerdo
+- canais em que você é incrito
+- botão "mostrar mais" na parte de canais inscritos
+- botões da aba "Você";
+Seu canal
+Histórico
+Playlist
+Seus vídeos
+Assistir mais tarde
+Videos com gostei
+- títulos de vídeos recomendados
+-três pontos ao lado do tiutlo do vídeo recomendado
+- nome de canais recomendados
+- botão "mostrar mais" no tópico de noticias
+
+REQUISITOS NÃO FUNCIONAIS:
+-cor de fundo da pagina ( paleta de cores do site, não dos vídeos)
+- ícone da lupa na barra de pesquisa
+- ícone do microfone
+- ícone da câmera de adicionar videos
+- ícone do sino de notificações
+- foto do canal (pessoal)
+- retângulos de assuntos relevantes abaixo da barra de pesquisa
+- ícone de ações ao lado do titulo de vídeos recomendados (três pontinhos)
+- frase "ultimas noticias"
+- ícones dos redirecionamentos:
+Inicio
+Shorts
+Incrições
+- ícones da aba "Você" em:
+Seu canal
+Histórico
+Playlist
+Seus vídeos
+Assistir mais tarde
+Videos com gostei
+- palavra inscrições no lado esquerdo
+- nome e fotos dos canais em que é inscrito
+- palavra explorar no canto inferior esquerdo
+- linhas ao lado de "mostrar mais"
+- espaçamento entre os vídeos recomendados
+- espaçamento entre tópico de noticias e vídeos recomendados
